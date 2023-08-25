@@ -4,7 +4,7 @@ public class Arithmetic {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		FourOp first = new FourOp();
-		// a와 b값을 지정
+		// a와 b값을 지정jhkjhjkjk
 		first.setA(10);
 		first.setB(5);
 		//더하기
